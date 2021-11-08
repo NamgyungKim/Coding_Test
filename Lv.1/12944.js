@@ -1,0 +1,7 @@
+// 평균구하기
+
+function solution(arr) {
+    let answer = 0;
+    for(let i = 0; i < arr.length; i++){ answer += arr[i]}
+    return answer = answer/arr.length ;
+}

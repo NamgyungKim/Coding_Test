@@ -1,3 +1,5 @@
+// 가운데 글자 가져오기
+
 function solution(s) {
   let answer = ''
   if (s.split('').length % 2 == 1) {
