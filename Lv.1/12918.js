@@ -2,7 +2,7 @@
 
 //s의 길이가 4혹은6 && 숫자로만 구성
 function solution(s) {
-    var answer = true;
+    let answer = true;
     if(s.indexOf ("e") !== -1 ){
         answer = false
     }else if((Number(s)) && (s.length == 4 || s.length == 6)){
