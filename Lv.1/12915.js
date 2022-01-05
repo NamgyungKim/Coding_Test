@@ -2,9 +2,8 @@
 
 function solution(strings, n) {
     strings.sort()
-    strings.sort((a,b)=>{ return a[n] < b[n] ? -1 : 0 })
-    return strings;
+    return strings.sort((a,b)=>{ return a[n] < b[n] ? -1 : 0 });
 }
 
-
-solution(["abce", "abcd", "cdx"],2)
+console.log(solution(["sun", "bed", "car"],1))
+console.log(solution(["abce", "abcd", "cdx"],2))

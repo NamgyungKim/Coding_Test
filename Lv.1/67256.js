@@ -13,36 +13,31 @@ function len([a,b],[c,d]){ //거리 계산
 }
 
 function solution(numbers, hand) {
-    let hands = [[3,0],[3,2]]
+    let hands = [[3,0],[3,2]] //기본 위치
     let answer = ''
     let right_hand = (num) => { //오른손으로 눌렀을때
-        answer +="R"
+        answer += "R"
         hands[1] = po(numbers[num])
     }
     let left_hand = (num) => { //오른손으로 눌렀을때
         answer += "L"
         hands[0] = po(numbers[num])
     }
-    for(let i = 0; i < numbers.length; i++){
-        if(numbers[i] == 1 || numbers[i]== 4 || numbers[i] == 7){
+    numbers.forEach((num, i)=>{
+        if(num == 1 || num == 4 || num == 7){
             left_hand(i)
-        }else if(numbers[i] == 3 || numbers[i]== 6 || numbers[i] == 9){
+        }else if(num == 3 || num == 6 || num == 9){
             right_hand(i)
-        }else if(len(hands[1],po(numbers[i])) == len(hands[0],po(numbers[i])) ){
-            if(hand[0]=='r'){
-                right_hand(i)
-            }else{
-                left_hand(i)
-            }
-        }else if(len(hands[1],po(numbers[i])) > len(hands[0],po(numbers[i]))){
+        }else if(len(hands[1],po(num)) == len(hands[0],po(num)) ){
+            (hand[0]=='r') ? right_hand(i) : left_hand(i)
+        }else if(len(hands[1],po(num)) > len(hands[0],po(num))){
             left_hand(i)
         }else{
             right_hand(i)
         }
-    }
+    })
     return answer;
 }
 
-console.log(solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5]	,"right"))
+console.log(solution([1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5],"right"))
 
-//..하 40줄이 최선이다.    

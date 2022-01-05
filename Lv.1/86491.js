@@ -1,21 +1,18 @@
 // 최소직사각형
 
 function solution(sizes) {
-    let answer = 0;
     let v = [] // 가로
     let h = [] // 세로
-    for(let i = 0 ; i < sizes.length; i++){
-        // 큰값을 v로 작은값을 h로
-        if(sizes[i][0] > sizes[i][1]) {
-            v.push(sizes[i][0])
-            h.push(sizes[i][1])
-        }else{
-            v.push(sizes[i][1])
-            h.push(sizes[i][0])
-        }
-    }
+    // 큰값을 v로 작은값을 h로
+    sizes.forEach((item,i)=>{
+        sizes[i].sort((a,b)=>b-a)
+        v.push(item[0])
+        h.push(item[1])
+    })
     // 각 배열 v와 h에서의 최대값을 곱해줌
-    return answer = Math.max.apply(null,v)*Math.max.apply(null,h);
+    return Math.max(...v)*Math.max(...h);
 }
 
-solution([[60, 50], [30, 70], [60, 30], [80, 40]])
+console.log(solution([[60, 50], [30, 70], [60, 30], [80, 40]])==4000)
+console.log(solution([[10, 7], [12, 3], [8, 15], [14, 7], [5, 15]])==120)
+console.log(solution([[14, 4], [19, 6], [6, 16], [18, 7], [7, 11]])==133)
