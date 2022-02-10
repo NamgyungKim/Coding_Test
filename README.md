@@ -61,7 +61,10 @@
 
 ## ✌ Lv.2
 
-| 번호 | 문제 이름                                                                   | 코드                    |
-| :--: | --------------------------------------------------------------------------- | ----------------------- |
-|  01  | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [보기](./Lv.2/12899.js) |
-|  02  | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)     | [보기](./Lv.2/12945.js) |
+| 번호 | 문제 이름                                                                           | 코드                    |
+| :--: | ----------------------------------------------------------------------------------- | ----------------------- |
+|  01  | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [보기](./Lv.2/12899.js) |
+|  02  | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)             | [보기](./Lv.2/12945.js) |
+|  03  | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)          | [보기](./Lv.2/92334.js) |
+|  04  | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [보기](./Lv.2/60057.js) |
+|  05  | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
