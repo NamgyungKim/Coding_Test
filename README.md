@@ -58,6 +58,7 @@
 |  52  | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)                                            | [보기](./Lv.1/67256.js) |
 |  53  | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)                                                | [보기](./Lv.1/17682.js) |
 |  54  | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)                                     | [보기](./Lv.1/64061.js) |
+|  55  | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)                                           | [보기](./Lv.2/92334.js) |
 
 ## ✌ Lv.2
 
@@ -65,6 +66,5 @@
 | :--: | ----------------------------------------------------------------------------------- | ----------------------- |
 |  01  | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [보기](./Lv.2/12899.js) |
 |  02  | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)             | [보기](./Lv.2/12945.js) |
-|  03  | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)          | [보기](./Lv.2/92334.js) |
-|  04  | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [보기](./Lv.2/60057.js) |
-|  05  | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
+|  03  | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [보기](./Lv.2/60057.js) |
+|  04  | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
