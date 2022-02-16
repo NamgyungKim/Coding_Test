@@ -69,3 +69,4 @@
 |  03  | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [보기](./Lv.2/60057.js) |
 |  04  | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
 |  04  | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)              | [보기](./Lv.2/42888.js) |
+|  05  | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [보기](./Lv.2/62048.js) |
