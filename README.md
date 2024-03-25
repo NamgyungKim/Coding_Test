@@ -1,4 +1,4 @@
-# 프로그래머스 코딩테스트
+~~# 프로그래머스 코딩테스트
 
 ## ☝ Lv.1
 
@@ -72,3 +72,11 @@
 | 05 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [보기](./Lv.2/62048.js) |
 | 06 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | [보기](./Lv.2/42586.js) |
 | 07 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [보기](./Lv.2/42577.js) |
+| 08 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [보기](./Lv.2/42578.js) |
+| 08 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [보기](./Lv.2/42586.js) |~~
+
+## 🎯 LV.3
+
+| 번호 | 문제 이름                                                                    | 코드                    |
+|:--:|--------------------------------------------------------------------------|-----------------------|
+| 01 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [보기](./Lv.3/42579.js) |
