@@ -74,6 +74,9 @@
 | 07 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [보기](./Lv.2/42577.js) |
 | 08 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [보기](./Lv.2/42578.js) |
 | 08 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [보기](./Lv.2/42586.js) |~~
+| 08 | [올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [보기](./Lv.2/12909.js) |~~
+| 08 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       | [보기](./Lv.2/42587.js) |~~
+| 08 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [보기](./Lv.2/42583.js) |~~
 
 ## 🎯 LV.3
 
