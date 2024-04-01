@@ -68,15 +68,16 @@
 | 02 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)            | [보기](./Lv.2/12945.js) |
 | 03 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)            | [보기](./Lv.2/60057.js) |
 | 04 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
-| 04 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)             | [보기](./Lv.2/42888.js) |
-| 05 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [보기](./Lv.2/62048.js) |
-| 06 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | [보기](./Lv.2/42586.js) |
-| 07 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [보기](./Lv.2/42577.js) |
-| 08 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [보기](./Lv.2/42578.js) |
-| 08 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [보기](./Lv.2/42586.js) |~~
-| 08 | [올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [보기](./Lv.2/12909.js) |~~
-| 08 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       | [보기](./Lv.2/42587.js) |~~
-| 08 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [보기](./Lv.2/42583.js) |~~
+| 05 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)             | [보기](./Lv.2/42888.js) |
+| 06 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [보기](./Lv.2/62048.js) |
+| 07 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | [보기](./Lv.2/42586.js) |
+| 08 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [보기](./Lv.2/42577.js) |
+| 09 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [보기](./Lv.2/42578.js) |
+| 10 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [보기](./Lv.2/42586.js) |
+| 11 | [올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [보기](./Lv.2/12909.js) |
+| 12 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       | [보기](./Lv.2/42587.js) |
+| 13 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [보기](./Lv.2/42583.js) |
+| 14 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)       | [보기](./Lv.2/42584.js) |
 
 ## 🎯 LV.3
 
