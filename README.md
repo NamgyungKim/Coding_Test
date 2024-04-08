@@ -79,6 +79,7 @@
 | 13 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [보기](./Lv.2/42583.js) |
 | 14 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)       | [보기](./Lv.2/42584.js) |
 | 15 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)       | [보기](./Lv.2/42626.js) |
+| 16 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)     | [보기](./Lv.2/42746.js) |
 
 ## 🎯 LV.3
 
