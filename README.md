@@ -83,6 +83,7 @@
 | 17 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [보기](./Lv.2/42747.js) |
 | 18 | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)       | [보기](./Lv.2/42839.js) |
 | 19 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [보기](./Lv.2/42842.js) |
+| 20 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)        | [보기](./Lv.2/87946.js) |
 
 ## 🎯 LV.3
 
