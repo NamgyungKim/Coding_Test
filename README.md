@@ -62,28 +62,29 @@
 
 ## ✌ Lv.2
 
-| 번호 | 문제 이름                                                                         | 코드                    |
-|:--:|-------------------------------------------------------------------------------|-----------------------|
-| 01 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)        | [보기](./Lv.2/12899.js) |
-| 02 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)            | [보기](./Lv.2/12945.js) |
-| 03 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)            | [보기](./Lv.2/60057.js) |
-| 04 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [보기](./Lv.2/12951.js) |
-| 05 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)             | [보기](./Lv.2/42888.js) |
-| 06 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)           | [보기](./Lv.2/62048.js) |
-| 07 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | [보기](./Lv.2/42586.js) |
-| 08 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [보기](./Lv.2/42577.js) |
-| 09 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [보기](./Lv.2/42578.js) |
-| 10 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [보기](./Lv.2/42586.js) |
-| 11 | [올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [보기](./Lv.2/12909.js) |
-| 12 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       | [보기](./Lv.2/42587.js) |
-| 13 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [보기](./Lv.2/42583.js) |
-| 14 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)       | [보기](./Lv.2/42584.js) |
-| 15 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)       | [보기](./Lv.2/42626.js) |
-| 16 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)     | [보기](./Lv.2/42746.js) |
-| 17 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [보기](./Lv.2/42747.js) |
-| 18 | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)       | [보기](./Lv.2/42839.js) |
-| 19 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [보기](./Lv.2/42842.js) |
-| 20 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)        | [보기](./Lv.2/87946.js) |
+| 번호 | 문제 이름                                                                          | 코드                    |
+|:--:|--------------------------------------------------------------------------------|-----------------------|
+| 01 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)         | [보기](./Lv.2/12899.js) |
+| 02 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)             | [보기](./Lv.2/12945.js) |
+| 03 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)             | [보기](./Lv.2/60057.js) |
+| 04 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)  | [보기](./Lv.2/12951.js) |
+| 05 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)              | [보기](./Lv.2/42888.js) |
+| 06 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)            | [보기](./Lv.2/62048.js) |
+| 07 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)              | [보기](./Lv.2/42586.js) |
+| 08 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)     | [보기](./Lv.2/42577.js) |
+| 09 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)          | [보기](./Lv.2/42578.js) |
+| 10 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)        | [보기](./Lv.2/42586.js) |
+| 11 | [올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)       | [보기](./Lv.2/12909.js) |
+| 12 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)        | [보기](./Lv.2/42587.js) |
+| 13 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | [보기](./Lv.2/42583.js) |
+| 14 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)        | [보기](./Lv.2/42584.js) |
+| 15 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)        | [보기](./Lv.2/42626.js) |
+| 16 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)      | [보기](./Lv.2/42746.js) |
+| 17 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)     | [보기](./Lv.2/42747.js) |
+| 18 | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)        | [보기](./Lv.2/42839.js) |
+| 19 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)          | [보기](./Lv.2/42842.js) |
+| 20 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)         | [보기](./Lv.2/87946.js) |
+| 21 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [보기](./Lv.2/86971.js) |
 
 ## 🎯 LV.3
 
