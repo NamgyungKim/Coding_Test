@@ -85,6 +85,7 @@
 | 19 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)          | [보기](./Lv.2/42842.js) |
 | 20 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)         | [보기](./Lv.2/87946.js) |
 | 21 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [보기](./Lv.2/86971.js) |
+| 22 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)        | [보기](./Lv.2/84512.js) |
 
 ## 🎯 LV.3
 
