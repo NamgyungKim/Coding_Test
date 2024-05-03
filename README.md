@@ -87,6 +87,8 @@
 | 21 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [보기](./Lv.2/86971.js) |
 | 22 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)        | [보기](./Lv.2/84512.js) |
 | 23 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)        | [보기](./Lv.2/42860.js) |
+| 24 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)     | [보기](./Lv.2/42883.js) |
+| 25 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)        | [보기](./Lv.2/42885.js) |
 
 ## 🎯 LV.3
 
