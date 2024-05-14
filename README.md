@@ -98,4 +98,5 @@
 | 02 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [보기](./Lv.3/42627.js) |
 | 03 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  | [보기](./Lv.3/42628.js) | 
 | 04 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)   | [보기](./Lv.3/42861.js) | 
-| 04 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   | [보기](./Lv.3/43105.js) | 
+| 05 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   | [보기](./Lv.3/43105.js) | 
+| 06 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)   | [보기](./Lv.3/42895.js) | 
