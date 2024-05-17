@@ -25,9 +25,11 @@ function solution(jobs) {
 }
 
 testCase.forEach(({input, result}, i) => {
-    let check = solution(input) === result
+    let answer = solution(input)
+    let check = answer === result
     console.log(`============ ${i}번째 테스트 ===============`)
     console.log(`결과 : ${check ? '통과' : '실패'}`)
     if (check) return
     console.log(`정답: ${result}`)
+    console.log(`내답: ${answer}`)
 })

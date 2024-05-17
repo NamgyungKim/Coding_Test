@@ -100,3 +100,4 @@
 | 04 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)   | [보기](./Lv.3/42861.js) | 
 | 05 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   | [보기](./Lv.3/43105.js) | 
 | 06 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)   | [보기](./Lv.3/42895.js) | 
+| 06 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      | [보기](./Lv.3/42898.js) | 
