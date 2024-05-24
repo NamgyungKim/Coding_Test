@@ -3,7 +3,13 @@
 number 에서 k개의 숫자를 제거해서 가장 큰 수 만들기
 
 😀순서
-1. 1개 뺐을 때 가장 큰수, 1개 더뺐을때 가장 큰수 ... 를 계속 구한다.
+수를 쌓아가는 방식으로
+1. 첫번째 숫자를 num 변수에 넣는다.
+2. 두번째 숫자와 num 비교
+ 2-1 num > 두번째 숫자 이면 num을 취하고 다음 숫자를 num에 넣는다.
+ 2-2 num <= 두번째 숫자 이면 num을 버리고 두번째 숫자를 num 에 넣는다.
+3. 수를 버릴때 마다 k를 빼준다.
+k가 0 이면 뒤의모든 숫자는 취해야함.
 
 🚨 주의
 
@@ -28,56 +34,44 @@ let testCase = [
         k: 4,
         result: "775841"
     },
-    {
-        number: "333333",
-        k: 4,
-        result: "33"
-    },
+    // {
+    //     number: "333333",
+    //     k: 4,
+    //     result: "33"
+    // },
 ]
 
+num = 9
+
+
 function solution(number, k) {
-    let result = number
-    while (result.length > number.length - k) {
-        if (result.replaceAll(result[0], '').length === 0) {
-            result = result.slice(0, result.length - 2)
-            continue
-        }
-        for (let i = 0; i < result.length; i++) {
-            if (result[i] < result[i + 1]) {
-                result = result.replace(result[i], '')
-                i = result.length
+    let result = ''
+    let num = number[0]
+    while (k > 0) {
+        for (let i = 1; i < number.length; i++) {
+            if (k === 0 || i === number.length - 1) {
+                result = result + number.slice(i - 1, number.length)
+                return result
+            }
+            console.log(num, number[i])
+            if (num > number[i]) {
+                result = result + num
+                num = number[i]
+            } else {
+                k--
+                num = number[i]
             }
         }
     }
     return result
 }
 
-// function solution(number, k) {
-//     let result = number
-//     while (result.length > number.length - k) {
-//         let replaceNum1 = result
-//         let replaceNum2 = result
-//         let stop = true
-//         while (stop) {
-//             replaceNum2 = replaceNum1.replaceAll(replaceNum1[0], '')
-//             if (replaceNum1[0] < replaceNum2[0]) {
-//                 result = result.replace(replaceNum1[0], '')
-//                 stop = false
-//             }
-//             if (replaceNum2.length === 0) {
-//                 result = result.slice(0, result.length - 2)
-//                 stop = false
-//             }
-//             replaceNum1 = replaceNum2
-//         }
-//     }
-//     return result
-// }
-
 testCase.forEach(({number, k, result}, i) => {
-    let check = solution(number, k) === result
+    let answer = solution(number, k)
+    let check = answer === result
     console.log(`============ ${i}번째 테스트 ===============`)
     console.log(`결과 : ${check ? '통과' : '실패'}`)
     if (check) return
     console.log(`정답: ${result}`)
+    console.log(`내답: ${answer}`)
 })

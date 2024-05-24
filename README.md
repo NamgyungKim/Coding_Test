@@ -89,6 +89,7 @@
 | 23 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)        | [보기](./Lv.2/42860.js) |
 | 24 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)     | [보기](./Lv.2/42883.js) |
 | 25 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)        | [보기](./Lv.2/42885.js) |
+| 26 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)       | [보기](./Lv.2/43165.js) |
 
 ## 🎯 LV.3
 
