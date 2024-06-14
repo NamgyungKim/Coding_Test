@@ -103,5 +103,7 @@
 | 06 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)   | [보기](./Lv.3/42895.js) | 
 | 06 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      | [보기](./Lv.3/42898.js) | 
 | 06 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)     | [보기](./Lv.3/43162.js) | 
+| 06 | [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)   | [보기](./Lv.3/1844.js)  | 
+| 06 | [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)     | [보기](./Lv.3/43163.js) | 
 | 06 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)   | [보기](./Lv.3/87694.js) | 
 | 06 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     | [보기](./Lv.3/43164.js) | 
