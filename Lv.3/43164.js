@@ -1,6 +1,7 @@
 /*
 🚩여행경로 🚩
-항공권을 모두 사용할 경우 경로 반환
+- 항공권을 모두 사용할 경우 경로 반환
+- 만일 가능한 경로가 2개 이상일 경우 알파벳 순서가 앞서는 경로를 return 합니다.
 
 😀순서
 
@@ -8,7 +9,7 @@
 
 ⏳시간복잡도:
 
-🍭점수:  점
+🍭점수: 11 점
 */
 
 let testCase = [
@@ -24,27 +25,25 @@ let testCase = [
 
 
 function solution(tickets) {
-    const result = []
-    const graph = {};
-    // graph setting
-    tickets.forEach(([st, ed]) => {
-        if (graph[st]) {
-            graph[st] = [...graph[st], ed]
-        } else {
-            graph[st] = [ed]
-        }
-    })
- 
-    const stack = ['ICN']
-    while (stack.length > 0) {
-        const currentLocation = stack.shift()
-        result.push(currentLocation)
-        graph[currentLocation].forEach(() => {
+    let paths = [];
 
-        })
+    function dfs(tickets, current, path) {
+        if (tickets.length === 0) {
+            paths.push(path)
+            return
+        }
+
+        tickets.forEach(([departure, destination], index) => {
+            if (current === departure) {
+                const newTickets = tickets.slice();
+                newTickets.splice(index, 1)
+                dfs(newTickets, destination, path.concat(destination))
+            }
+        });
     }
-    console.log(graph)
-    return result;
+
+    dfs(tickets, "ICN", ["ICN"])
+    return paths.sort()[0];
 }
 
 testCase.forEach(({tickets, result}, i) => {
