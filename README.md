@@ -101,9 +101,11 @@
 | 04 | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)   | [보기](./Lv.3/42861.js) | 
 | 05 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)   | [보기](./Lv.3/43105.js) | 
 | 06 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)   | [보기](./Lv.3/42895.js) | 
-| 06 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      | [보기](./Lv.3/42898.js) | 
-| 06 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)     | [보기](./Lv.3/43162.js) | 
-| 06 | [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)   | [보기](./Lv.3/1844.js)  | 
-| 06 | [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)     | [보기](./Lv.3/43163.js) | 
-| 06 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)   | [보기](./Lv.3/87694.js) | 
-| 06 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     | [보기](./Lv.3/43164.js) | 
+| 07 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      | [보기](./Lv.3/42898.js) | 
+| 08 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)     | [보기](./Lv.3/43162.js) | 
+| 09 | [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)   | [보기](./Lv.3/1844.js)  | 
+| 10 | [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)     | [보기](./Lv.3/43163.js) | 
+| 11 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)   | [보기](./Lv.3/87694.js) | 
+| 12 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)     | [보기](./Lv.3/43164.js) | 
+| 13 | [퍼즐조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | [보기](./Lv.3/84021.js) | 
+| 14 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)  | [보기](./Lv.3/49189.js) | 
